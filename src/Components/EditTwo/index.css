@@ -1,0 +1,21 @@
+.editResult {
+    width: 50%;
+    height: 100px;
+    background-color: #ffffff;
+    border: .2px solid #eeeeee;
+    margin-bottom: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+input {
+    width: 40%;
+    height: 50px;
+    border: .2px solid #eeeeee;
+    background-color: #e8e1f541;
+    padding-left: 20px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}

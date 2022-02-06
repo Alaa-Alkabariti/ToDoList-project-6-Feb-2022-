@@ -1,0 +1,53 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:  center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:  center;
+}
+
+.addTask {
+    width: 40%;
+    height: 50px;
+    border: .2px solid #eeeeee;
+    background-color: #e8e1f541;
+    padding-left: 20px;
+}
+
+.add {
+    height: 56px;
+    width: 10%;
+    background-color: #633BAD;
+    color: white;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px #eeeeee;
+}
+
+.add:hover {
+    height: 56px;
+    width: 10%;
+    background-color: #8c63da;
+    color: white;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px #adadad;
+
+}
+
+.msg {
+    width: 49%;
+    background-color: rgb(228, 133, 133);
+    box-shadow: 2px 2px 2px #adadad;
+
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
